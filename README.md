@@ -35,13 +35,3 @@ Rumors and suspicions arose with many speculating that Hans had possibly used un
 
 Utilizing the **chess.com API**, we have extracted a dataset of 10,000 games for a comprehensive analysis.
 
----
-
-### Contributing
-
-Please refer to [CONTRIBUTING.md](#) for guidelines on contributing to this repository.
-
----
-
-⭐️ **Show your support by giving a star!**
-
